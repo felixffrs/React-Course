@@ -1,0 +1,8 @@
+EXTENSIONS:
+- ES7+ React/Redux/React-Native snippets
+    SNIPPETS(https://github.com/r5n-dev/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md):
+    * rafc -> Create arrow function component without export
+    * rafce -> Create arrow function component with export
+    * imrc -> Import React + Component
+    * ccc -> Create class component with extension Component and export it
+COMMANDS:

@@ -1,0 +1,8 @@
+COMMANDS
+
+- npm install -g create-react-app -> Install react library globally
+- npx create-react-app react-course
+- npm start -> Start react app
+- npm install styled-components -> Styled components library
+- npm install axios -> HTTP request library (most used)
+- npm install react-router-dom
